@@ -1,0 +1,6 @@
+node_modules
+venv
+frontend\node_modules
+__pycache__
+backend\.env
+agritwin-sarvam-gemini\.env

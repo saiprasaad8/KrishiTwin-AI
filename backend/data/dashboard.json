@@ -1,0 +1,9 @@
+{
+    "farmHealth": 92,
+    "temperature": 29,
+    "humidity": 74,
+    "soilMoisture": 68,
+    "yieldPrediction": "5.8 Tons",
+    "aiConfidence": 97,
+    "digitalTwin": "LIVE"
+}

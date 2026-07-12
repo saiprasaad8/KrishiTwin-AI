@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-media-recorder": "^1.7.2",
+    "recharts": "^3.9.2"
+  }
+}
