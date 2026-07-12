@@ -7,7 +7,7 @@ Our goal is to help farmers make better decisions by combining weather data, cro
 
 Instead of relying on multiple applications, farmers can manage everything from a single dashboard. 
 
-# What Our Platform Can Do 
+# What Our Platform Can Do? 
 -  Create a Digital Twin of the farm
 -  Detect crop diseases from leaf images
 -  Monitor real-time weather
@@ -44,6 +44,8 @@ Start the backend
 Start the frontend
 ```npm install``` 
 ```npm run dev```
+
+To run on a single click, click *application.bat* to execute it
 
 
 # Acknowledgements 
