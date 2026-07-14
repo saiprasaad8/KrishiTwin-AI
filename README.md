@@ -54,9 +54,3 @@ To run on a single click, click *application.bat* to execute it
 - AnythingLLM
 - PlantVillage Dataset
 - OpenWeather API
-
-# Team members:
-- Sai Prasaad R
-- Vigneshwaran J
-- Hemamalar D
-- Raghav G S
